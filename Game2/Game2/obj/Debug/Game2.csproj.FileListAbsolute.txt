@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\прога\прога\Game2\Game2\bin\Debug\Game2.exe.config
+C:\Users\User\Desktop\прога\прога\Game2\Game2\bin\Debug\Game2.exe
+C:\Users\User\Desktop\прога\прога\Game2\Game2\bin\Debug\Game2.pdb
+C:\Users\User\Desktop\прога\прога\Game2\Game2\obj\Debug\Game2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\прога\прога\Game2\Game2\obj\Debug\Game2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\прога\прога\Game2\Game2\obj\Debug\Game2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\прога\прога\Game2\Game2\obj\Debug\Game2.exe
+C:\Users\User\Desktop\прога\прога\Game2\Game2\obj\Debug\Game2.pdb
